@@ -1,4 +1,4 @@
-# Hot-Rod-Analysis
+# World Bank Data Analysis
 This is the repository to work. Analyze the World-Bank dataset of north and central America.
 
 Feel free to add any type of file inside here: Python, Jupyter Notebook, Excel, Images.
